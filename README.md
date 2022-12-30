@@ -19,7 +19,7 @@ Hi there! My name is Tony Tan and I'm a software tester, QA engineer, and data s
 
 ## Contact
 - Email: tonytantech@gmail.com
-- LinkedIn: [Tony Tan]([https://www.linkedin.com/in/tony-tan/](https://www.linkedin.com/in/tony-tan/))
+- LinkedIn: [Tony Tan](https://www.linkedin.com/in/tony-tan/)
 
 
 <!---
