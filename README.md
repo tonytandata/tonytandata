@@ -17,12 +17,10 @@ Hi there! My name is Tony Tan and I'm a software tester, QA engineer, and data s
 
 ## Contact
 
--   Email: [tonytantech\@gmail.com](mailto:tonytantech@gmail.com){.email}
+-   Email: [tonytantech\@gmail.com](mailto:tonytantech@gmail.com)
 -   LinkedIn: [Tony Tan](https://www.linkedin.com/in/tony-tan/)
 
-```{=html}
 <!---
 tonytandata/tonytandata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-```
