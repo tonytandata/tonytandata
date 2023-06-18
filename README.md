@@ -19,6 +19,7 @@ Hi there! My name is Tony Tan and I'm a software tester, QA engineer, and data s
 
 -   Email: [tonytantech\@gmail.com](mailto:tonytantech@gmail.com)
 -   LinkedIn: [Tony Tan](https://www.linkedin.com/in/tony-tan/)
+-   Medium: [\@tonyyjt](https://medium.com/@tonyyjt)
 
 <!---
 tonytandata/tonytandata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
