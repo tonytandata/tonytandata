@@ -6,6 +6,8 @@ Hi there! My name is Tony Tan and I'm a software tester, QA engineer, and data s
 
 -   Mainly Java (Selenium, Serenity, TestNG, Cucumber) for test automation
 -   Have also used various other technologies for data science and web development
+-   JMeter for performance testing
+-   Learning and mastering Playwright under progress
 
 
 ## Stats
